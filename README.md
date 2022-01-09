@@ -5,5 +5,5 @@ $ git branch marius_branch
 
 
 $ git branch
-main
+* main
 marius_branch
